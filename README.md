@@ -8,6 +8,9 @@
 <sub>*Data Scientist* </sub>
 
 
+###Projetos
+**Meu primeiro projeto feito para o módulo 1 do Curso Data Science na Prática da Sigmoidal [Análise dos Dados de Imóveis Airbnb Lisboa](https://github.com/carloshaar/inside_airbnb_lisbon)**
+
 **Background in:** Python, PowerBI, SQL.
 
 **Links:**
