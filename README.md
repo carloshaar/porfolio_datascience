@@ -13,6 +13,9 @@
 
 **Background in:** Python, PowerBI, SQL.
 
+### Posts
+Link do Post do projeto no Medium [Análise dos Dados de Imóveis Airbnb Lisboa - Medium.com](https://medium.com/@carloshaar/analisando-os-dados-do-airbnb-distrito-de-lisboa-portugal-ef75a7e2a226)
+
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/carloshaar)
 * [Medium](https://www.medium.com)
