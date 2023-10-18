@@ -7,11 +7,26 @@
 # Carlos Haar
 <sub>*Data Scientist* </sub>
 
+**Background in:** Python, PowerBI, SQL.
 
 ### Projetos
-1º projeto feito para o módulo 1 do Curso Data Science na Prática da Sigmoidal [Análise dos Dados de Imóveis Airbnb Lisboa](https://github.com/carloshaar/inside_airbnb_lisbon)
+# Python
+Projeto feito para o módulo 1 do Curso Data Science na Prática da Sigmoidal [Análise dos Dados de Imóveis Airbnb Lisboa](https://github.com/carloshaar/inside_airbnb_lisbon)
 
-**Background in:** Python, PowerBI, SQL.
+https://github.com/carloshaar/inside_airbnb_lisbon
+ 
+Projeto Bootcamp Santander 2023 - Ciência de Dados | Dio.me - utilizando ChatGPT e NLP para obter insights através de análise de pesquisa NPS entre funcionários de uma empresa, sugerindo pontos de melhoria.
+
+https://github.com/carloshaar/nps_openai
+
+
+# PowerBI
+https://github.com/carloshaar/bootcamp_santander_dio_pbi1
+
+https://github.com/carloshaar/dashboard_logistica_datab
+
+https://github.com/carloshaar/dashboard_comercial_datab
+
 
 ### Posts
 Link do Post do projeto no Medium [Análise dos Dados de Imóveis Airbnb Lisboa - Medium.com](https://medium.com/@carloshaar/analisando-os-dados-do-airbnb-distrito-de-lisboa-portugal-ef75a7e2a226)
